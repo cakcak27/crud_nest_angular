@@ -1,0 +1,4 @@
+Installing angular using pnpm
+```sh
+    pnpm --package=@angular/cli dlx ng new <package_name>
+```
